@@ -5,6 +5,12 @@ img {
   width: 30%;
   float: right;
   background-color: yellow;
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+  padding: 6px;
+  margin: 20px;
 }
 .column {
   width: 350px;
